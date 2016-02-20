@@ -12,7 +12,6 @@
       </properties>
     </profile>
   </profiles>
-
   <servers>
     <server>
       <id>ossrh</id>
